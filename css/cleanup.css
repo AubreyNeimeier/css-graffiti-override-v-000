@@ -26,6 +26,7 @@ body div#wall div.parent div:last-child div#tag-6{
 }
 
 /*tag-7*/
-body div#wall div.parent + .parent > #tag-7.slick{
+body div#wall .class:last-of-type{
   display:none;
 }
+
